@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="ファイル置き場" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          アプリに必要なファイルを置くためのダミーサイトです
         </p>
       </main>
 
