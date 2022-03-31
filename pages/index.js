@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="ファイル置き場" />
+        <Header title="インストールありがとうございます！" />
         <p className="description">
-          アプリに必要なファイルを置くためのダミーサイトです
+          Webサイトは準備中です、、、
         </p>
       </main>
 
